@@ -1,0 +1,26 @@
+.container {
+    margin-top: 1%;
+}
+
+h1 {
+    margin-bottom: 2%;
+}
+
+.grey {
+    background: beige;
+    padding: 1%;
+    outline: .1em solid grey;
+}
+
+.green {
+    background: lightgreen;
+    padding: 1%;
+    outline: .1em solid grey;
+}
+
+.card {
+    padding-top: 2%;
+    margin-top: 3%;
+    background: lightgreen;
+    color: darkred;
+}
